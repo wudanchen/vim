@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/hdd1/wudancheng/all_code/9632/customers'
+let g:netrw_dirhist_2='/hdd1/wudancheng/all_code/mtk9632/customers'
+let g:netrw_dirhist_3='/hdd1/wudancheng/all_code/mtk9632'
+let g:netrw_dirhist_4='/hdd1/wudancheng/all_code/mtk9632/customers'
+let g:netrw_dirhist_5='/hdd1/wudancheng/all_code'
+let g:netrw_dirhist_6='/hdd1/wudancheng/all_code/mtk9632/android_apps/customer_tonghe_apps/aptoide-cvt-platform7'
+let g:netrw_dirhist_7='/hdd1/wudancheng/all_code/mtk9632/customers'
+let g:netrw_dirhist_8='/hdd1/wudancheng/all_code/3663/dvb_3663/customers/customer/customer_chaoye'
